@@ -483,7 +483,7 @@ position: relative;
 
     height: 294px;
     width: 350px;
-    background: url(/img/office.jpg) no-repeat;
+    background: url(./img/office.jpg) no-repeat;
     background-size: 346px 290px;
     border-radius: 9px;
     cursor: pointer;
@@ -503,13 +503,13 @@ position: relative;
 
 .ac {
 
-    background: url(/img/hunger.jpg) no-repeat;
+    background: url(./img/hunger.jpg) no-repeat;
 }
 
 
 .ad {
 
-    background: url(/img/family.jpg) no-repeat;
+    background: url(./img/family.jpg) no-repeat;
 }
 
 
@@ -684,7 +684,7 @@ h5 {
 }
 
 .guidepic {
-    background-image: url(/img/guide1.png);
+    background-image: url(./img/guide1.png);
     background-size: 100%;
     height: 300px;
     width: 80%;
@@ -744,7 +744,7 @@ footer {
     width: 100%;
     position: absolute;
     display: inline-block;
-    background: url(/img/foot.png) no-repeat;
+    background: url(./img/foot.png) no-repeat;
     background-size: 100% 595px;
 }
 
